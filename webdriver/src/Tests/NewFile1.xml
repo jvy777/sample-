@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="webDriver">
+<test name="test">
+<groups>
+<run>
+<include name="email"></include>
+</run>
+</groups>
+<classes>
+<class name="Tests.NewTest3"></class>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="webDriver">
+<test name="test">
+<classes>
+<class name="Tests.NewTest4"></class>
+<class name="Tests.NewTest5"></class>
+</classes>
+</test>
+</suite>
